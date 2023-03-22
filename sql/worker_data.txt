@@ -1,0 +1,10 @@
+Jeremy,1960-04-11,Senior,25000
+James,1963-01-16,Middle,10000
+Richard,1969-12-19,Junior,5000
+Tom,1995-05-01,Middle,11000
+Jerry,1996-06-07,Trainee,900
+Michael,1969-01-03,Senior,95000
+Ayrton,1960-03-21,Senior,75000
+Tony,1970-09-20,Middle,12500
+Lara,1985-08-15,Junior,3500
+Mark,1995-07-25,Trainee,500
