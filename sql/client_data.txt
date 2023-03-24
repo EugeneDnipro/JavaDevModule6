@@ -1,5 +1,0 @@
-Intel
-AMD
-Microsoft
-Oracle
-Apple
